@@ -8,7 +8,7 @@ from dateutil.relativedelta import relativedelta
 from django.db import transaction
 from django.core import serializers
 import json
-user_agent = {"User-agent": "Mozilla/5.0 (Linux; U; Android 4.1.1; en-gb; Build/KLP) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"}
+user_agent = {"User-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0"}
 
 # Create your models here.
 
